@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* 
 
 * Implementing Newton Raphson method 
@@ -13,6 +14,8 @@
 
 */
 
+=======
+>>>>>>> 3e9f827334d1449fd75986f72fec31cc7b02a5d2
 #include <stdio.h>
 #define ABS(X)  (X >= 0)?(X):(X * -1)
 
