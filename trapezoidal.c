@@ -1,3 +1,10 @@
+/* 
+
+* Implementing Trapezoidal Rule 
+  to find the solution of a definite integral.
+
+*/
+
 #include <stdio.h>
 #include <math.h>
 #define PI 3.14159265358979323846
